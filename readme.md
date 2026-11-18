@@ -4,8 +4,6 @@
 
 Luma is a lightweight, good-looking calendar written in Python with **GTK 4** and **libadwaita**, designed to fit seamlessly into the Deepin Desktop Environment while staying usable on any GTK4 desktop. It syncs with your online calendars over **CalDAV**, supports read-only **.ics subscriptions**, handles **recurring events** properly, and follows your system's accent colour and dark/light preference automatically.
 
-> Luma is currently in **beta** (`0.11.1-beta`). It is stable enough for daily use, but expect occasional rough edges.
-
 ## Features
 
 **Four views, one date model**
