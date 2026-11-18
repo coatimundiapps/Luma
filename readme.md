@@ -53,3 +53,7 @@ Luma is a lightweight, good-looking calendar written in Python with **GTK 4** an
 ## Status
 
 Luma is a personal project by **CoatiMundi**, packaged as a `.deb` for Deepin. Contributions, translations and bug reports are very welcome.
+
+
+*** INFORMATION : Application designed specifically for Deepin Linux. Use on other Linux distributions is not guaranteed. ***
+
